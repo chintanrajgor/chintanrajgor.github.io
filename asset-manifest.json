@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d90ae758.css",
-    "main.js": "/static/js/main.3edc569b.js",
+    "main.css": "/static/css/main.a4f15ebf.css",
+    "main.js": "/static/js/main.81e04fc2.js",
     "static/js/787.575075be.chunk.js": "/static/js/787.575075be.chunk.js",
     "static/media/Problem Solving(Basic).png": "/static/media/Problem Solving(Basic).29a65e679919aef2a1de.png",
     "static/media/Python(Basic)HackerRank.png": "/static/media/Python(Basic)HackerRank.852c3bed822f976b12d8.png",
@@ -9,6 +9,7 @@
     "static/media/SQL(Intermediate).png": "/static/media/SQL(Intermediate).ec2a7de22488d59fce56.png",
     "static/media/SQL(Basic)HackerRank.png": "/static/media/SQL(Basic)HackerRank.e3f3197d5174f7b3fa80.png",
     "static/media/Java(Basic).png": "/static/media/Java(Basic).a5ff32023d4e268e08b9.png",
+    "static/media/ChintanResume.jpg": "/static/media/ChintanResume.0f6e76a78af4db76f227.jpg",
     "static/media/ChintanResume.pdf": "/static/media/ChintanResume.f33ef3afe485522d0327.pdf",
     "static/media/ProgramingforEverybodyCousera.jpeg": "/static/media/ProgramingforEverybodyCousera.9e45a652b027f2f7f2ab.jpeg",
     "static/media/PythonDataStructuresCoursera.jpeg": "/static/media/PythonDataStructuresCoursera.f5b0ff5e8e2aa20f2728.jpeg",
@@ -46,12 +47,12 @@
     "static/media/profileback.svg": "/static/media/profileback.4d7bf9069576a6af24ff.svg",
     "static/media/javascript.svg": "/static/media/javascript.3889853f8caa999d5a7782a86d3cf223.svg",
     "static/media/unity.svg": "/static/media/unity.8ab066433f82695b50df32e06b00658e.svg",
-    "main.d90ae758.css.map": "/static/css/main.d90ae758.css.map",
-    "main.3edc569b.js.map": "/static/js/main.3edc569b.js.map",
+    "main.a4f15ebf.css.map": "/static/css/main.a4f15ebf.css.map",
+    "main.81e04fc2.js.map": "/static/js/main.81e04fc2.js.map",
     "787.575075be.chunk.js.map": "/static/js/787.575075be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d90ae758.css",
-    "static/js/main.3edc569b.js"
+    "static/css/main.a4f15ebf.css",
+    "static/js/main.81e04fc2.js"
   ]
 }
